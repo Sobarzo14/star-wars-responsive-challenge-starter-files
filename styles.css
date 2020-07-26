@@ -1,0 +1,37 @@
+* {
+	font-family: Roboto, Arial;
+}
+h1 {
+	size: 28pt;
+}
+h2{
+	size: 16pt;
+	font-weight: normal;
+}
+.card{
+	height: 200px;
+	margin: 60px 0 150px 0;
+}
+.name{
+	font-weight: bold;
+	font-size: 16pt;
+	padding: 10px;
+}
+.desc{
+	font-weight: normal;
+	font-size: 14pt;
+	padding: 10px;
+}
+img{
+	width: 100%;
+	display: inline-block;
+}
+
+header {
+	width: 100%;
+	background-color: yellow;
+	position: relative;
+	margin-top: auto;
+	margin-bottom: 20px;
+	padding: 0;
+}
